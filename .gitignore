@@ -1,0 +1,8 @@
+*.pth
+*.txt
+result_resnet/*
+result_test/*
+result_test2/*
+.ipynb_checkpoints/*
+HW6_OjaswiAcharya.ipynb
+training_loss.png
